@@ -5,8 +5,8 @@ Solidity - 0.8.1 (solc-js)
 Node v14.17.0
 Web3.js v1.7.4
 
-Your ERC-721 Token Name: Nes Star
-Your ERC-721 Token Symbol: Nes Star, NS
+Your ERC-721 Token Name: StarNotary
+Your ERC-721 Token Symbol: STR
 Your “Token Address” on the Goerli Network: 0x6f8b7691d8ee0e5f7064867537883ed86917db6e
 
 
